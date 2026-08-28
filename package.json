@@ -1,0 +1,17 @@
+{
+  "name": "ai-news-brief",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily AI briefing compiled from major tech and news sources.",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "preview": "npx --yes serve docs -p 4173"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
