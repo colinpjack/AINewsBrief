@@ -1,0 +1,330 @@
+{
+  "generatedAt": "2026-11-24T20:26:02.896Z",
+  "date": "2026-11-24",
+  "timezone": "America/New_York",
+  "storyCount": 22,
+  "sources": [
+    "The Verge",
+    "TechCrunch",
+    "Engadget",
+    "CNET",
+    "Ars Technica",
+    "Wired",
+    "The Register",
+    "PCMag"
+  ],
+  "summarizer": "extractive",
+  "stories": [
+    {
+      "id": "db581e66bbd0",
+      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-24T17:30:00.000Z",
+      "headline": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of the best we’ve tested for up to 60 percent off.",
+      "expanded": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of the best we’ve tested for up to 60 percent off.\n\nWe’re seeing some excellent deals on a wide range of robot vacuums, including some of our favorite models from Roborock , Dreame , and Eufy . There are also rare discounts already available on premium models like the Matic and Matic Serene , which impressed us with their almost humanlike navigation, while midrange options such as the Eufy Omni C28 have dropped into budget territory. Whether you want a high-end model that cleans itself or something budget-friendly but still powerful, we’ve rounded up the best deals we’ve found so far.\n\nRoborock Q10 S5 Plus Despite lacking a multifunction dock, the budget-friendly robot vacuum and mop offers an impressive set of features for the price, including AI-powered obstacle avoidance, sonic mopping, automatic mop lifting, and a self-emptying dock. 99 at Roborock Roborock Qrevo Curv 2 Flow Roborock&#8217;s first roller-mop robot vacuum, the Curv 2 Flow, features flagship specs at a midrange price, including excellent mopping, a retractable mop cover, 20,000Pa suction, AI-powered obstacle avoidance, and a compact design. 99 at Amazon Matic robot vacuum The Matic robot vacuum and mop is ideal for cluttered homes with pets, multiple floors, and a mixture of carpets and hardwood.",
+      "category": "consumer-ai",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "e612b5415dc5",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "source": "Ars Technica",
+      "sourceHome": "https://arstechnica.com/",
+      "publishedAt": "2026-11-24T17:34:34.000Z",
+      "headline": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "summary": "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists.",
+      "expanded": "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists.\n\nTidal debuted its initial AI policy in July 2026, which included labeling and demonetizing all songs created entirely with AI. That wasn't enough to stem the tide of AI slop, though. Over the past 90 days, Tidal reports that 43 percent of new uploads were completely AI-generated.\n\nOn November 6, new uploads to Tidal hit a whopping 60 percent AI-generated. As things stand, Tidal hosts 27 million tracks labeled as AI, all of which were obviously added in the past couple of years. 3 percent of Tidal's total catalog.",
+      "category": "industry-trends",
+      "summarizer": "extractive",
+      "alsoFrom": [
+        "PCMag",
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "949a815f425d",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "source": "Ars Technica",
+      "sourceHome": "https://arstechnica.com/",
+      "publishedAt": "2026-11-24T18:47:57.000Z",
+      "headline": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "summary": "An Amazon delivery drone that clipped a fiber-optic line before crashing onto a garage roof is now the subject of an investigation by the US Federal Aviation Administration. It’s the latest delivery drone mishap caught on video as Amazon and other companies are ramping up such aerial delivery operations across the United States. The November 20 incident began with Jim Brennan and his wife, residents of Huntington Woods, Michigan, placing an order for shampoo and being surprised by a notification about the package arriving by drone within seven minutes, according to WXYZ 7 News Detroit .",
+      "expanded": "An Amazon delivery drone that clipped a fiber-optic line before crashing onto a garage roof is now the subject of an investigation by the US Federal Aviation Administration. It’s the latest delivery drone mishap caught on video as Amazon and other companies are ramping up such aerial delivery operations across the United States. The November 20 incident began with Jim Brennan and his wife, residents of Huntington Woods, Michigan, placing an order for shampoo and being surprised by a notification about the package arriving by drone within seven minutes, according to WXYZ 7 News Detroit .\n\nAfter the drone dropped the package into Brennan’s backyard, it lost a propeller when it caught on fiber-optic cable and floundered sideways before getting pinned between the neighbor’s garage roof and some power lines. “Like a sick bird, it tried to go up, it tried to get out of here,” Brennan told WXYZ 7. Read full article Comments",
+      "category": "misc",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "e97dd56116f4",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "sourceHome": "https://arstechnica.com/",
+      "publishedAt": "2026-11-24T12:30:05.000Z",
+      "headline": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing framework. The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a list of IP addresses and the goal: “obtain shell access.",
+      "expanded": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing framework. The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a list of IP addresses and the goal: “obtain shell access.\n\n” In short order, the agents discovered a zero-day in an open source medical imaging AI application running on one of the target servers. The agents then exploited the vulnerability and gained full control of the system. “These findings show that agentic offensive operations are already happening, and defenders should prepare for the speed and persistence these tools enable,” Amazon said .\n\nRead full article Comments",
+      "category": "enterprise-ai",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "38ea5b66d259",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-23T22:10:32.000Z",
+      "headline": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended with Huang’s resignation , and Nvidia CFO Colette Kress was installed as the new interim CEO. And then… Huang was back.",
+      "expanded": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended with Huang’s resignation , and Nvidia CFO Colette Kress was installed as the new interim CEO. And then… Huang was back.\n\nIn recent years, Nvidia has become a key part of the Trump administration&#8217;s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies. Saying it received input “from senior levels of the United States government,” Nvidia’s board announced his return as CEO on November 23rd, less than two weeks after his resignation. Follow along below for all of the latest updates.\n\nUS Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia Trump engineered a risky comeback for Jensen Huang Welcome to elite impunity, Jensen Huang Here’s Trump discussing the Jensen Huang situation on TV for 10 minutes. Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return How Jensen Huang ended up as Nvidia CEO again Jensen Huang has already come back to Nvidia’s offices. White House brags that Trump was ‘totally involved’ in getting Jensen reinstated Tech leaders are celebrating Jensen Huang’s return Jensen Huang is back as Nvidia’s CEO Trump says reinstating Jensen Huang “would be the best thing” for Nvidia and the US.",
+      "category": "ai-financials",
+      "summarizer": "extractive",
+      "alsoFrom": [
+        "Ars Technica",
+        "TechCrunch",
+        "Wired",
+        "CNET"
+      ]
+    },
+    {
+      "id": "555529a69b5d",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-24T20:02:03.000Z",
+      "headline": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg , The New York Times , and The Handbasket's Marisa Kabas . During the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement - an idea publicly promoted by Trump himself - \"completely untrue. \" He added, \"Don't think for a second politics played a role in the company.",
+      "expanded": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg , The New York Times , and The Handbasket's Marisa Kabas . During the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement - an idea publicly promoted by Trump himself - \"completely untrue. \" He added, \"Don't think for a second politics played a role in the company.\n\nWe are the most apolitical company,\" according to Kabas . Along w.",
+      "category": "industry-trends",
+      "summarizer": "extractive",
+      "alsoFrom": [
+        "PCMag"
+      ]
+    },
+    {
+      "id": "ee49075fab92",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-24T18:15:00.000Z",
+      "headline": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel more like slop than the sort of polished film you'd expect from the director of sleek productions like Fight Club and The Social Network . Following a number of Cliff Booth critics screenings that took place last week ahead of the film's premiere on November 25th, moviegoers rushed to social med.",
+      "expanded": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel more like slop than the sort of polished film you'd expect from the director of sleek productions like Fight Club and The Social Network . Following a number of Cliff Booth critics screenings that took place last week ahead of the film's premiere on November 25th, moviegoers rushed to social med.",
+      "category": "ai-financials",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "382477c959ea",
+      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-24T16:37:03.000Z",
+      "headline": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration , the Department of Commerce has added Megaspeed to its Entity List , which blocks trade with the company, citing national security risks. As reported earlier by Semafor , Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after news reports revealed Huang's affair with Alice Huang, a former Megaspeed executive, and that US officials suspected her of being a Chinese intelligence asset. The Commerce Department said in a filing that it's adding Megaspeed and its affiliates in Malaysia and Thailand to the list \"because o.",
+      "expanded": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration , the Department of Commerce has added Megaspeed to its Entity List , which blocks trade with the company, citing national security risks. As reported earlier by Semafor , Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after news reports revealed Huang's affair with Alice Huang, a former Megaspeed executive, and that US officials suspected her of being a Chinese intelligence asset. The Commerce Department said in a filing that it's adding Megaspeed and its affiliates in Malaysia and Thailand to the list \"because o.",
+      "category": "industry-trends",
+      "summarizer": "extractive",
+      "alsoFrom": [
+        "Engadget"
+      ]
+    },
+    {
+      "id": "1bfb90103b3c",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-24T16:09:23.000Z",
+      "headline": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users. \" In an email seen by The Verge and posted on Threads , two of the Times ' photography leaders, Meaghan Looram and Josh Haner, write that the use of these features \"can result in metadata identifying photographs as AI-generated. \" Adobe has spent the past few years filling Photoshop and other apps in its creative suite with a trove of AI-powered tools.",
+      "expanded": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users. \" In an email seen by The Verge and posted on Threads , two of the Times ' photography leaders, Meaghan Looram and Josh Haner, write that the use of these features \"can result in metadata identifying photographs as AI-generated. \" Adobe has spent the past few years filling Photoshop and other apps in its creative suite with a trove of AI-powered tools.\n\nThe November update cited by the NYT 's email adds several new AI features, including Adobe's new \"AI Assiste.",
+      "category": "industry-trends",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "09e62d6e1116",
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-24T17:17:09.000Z",
+      "headline": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen . The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated.",
+      "expanded": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen . The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated.\n\nIn a post on X, Andersen says Tidal needed to take a more \"drastic\" measure, as AI music made up 43 percent of the tracks distributed to the platform in the last 90 days. \"We believe this will resonate with both artists and listeners alike, as 96% of all AI-generated songs recei.",
+      "category": "industry-trends",
+      "summarizer": "extractive",
+      "alsoFrom": [
+        "Engadget"
+      ]
+    },
+    {
+      "id": "236bd09c26aa",
+      "title": "Google Maps vs. Waze: Which App Gets You to Thanksgiving Dinner Faster?",
+      "url": "https://www.pcmag.com/comparisons/google-maps-vs-waze-which-app-gets-you-to-thanksgiving-dinner-faster",
+      "source": "PCMag",
+      "sourceHome": "https://www.pcmag.com/",
+      "publishedAt": "2026-11-24T19:19:12.000Z",
+      "headline": "Google Maps vs. Waze: Which App Gets You to Thanksgiving Dinner Faster?",
+      "summary": "With features like traffic light locations and AI-powered route planning, modern map apps can do so much more for you this holiday travel season. I tested Google Maps and Waze to find the better navigator.",
+      "expanded": "With features like traffic light locations and AI-powered route planning, modern map apps can do so much more for you this holiday travel season. I tested Google Maps and Waze to find the better navigator.",
+      "category": "misc",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "7bea405cd767",
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+      "source": "Wired",
+      "sourceHome": "https://www.wired.com/",
+      "publishedAt": "2026-11-24T19:33:23.000Z",
+      "headline": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
+      "expanded": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
+      "category": "misc",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "d5d6fd3fb5cd",
+      "title": "Thanks to Bluehost's Black Friday Sale the Website of Your Dreams Can Now Be Yours",
+      "url": "https://www.pcmag.com/deals/thanks-to-bluehosts-black-friday-sale-the-website-of-your-dreams-can-now",
+      "source": "PCMag",
+      "sourceHome": "https://www.pcmag.com/",
+      "publishedAt": "2026-11-24T13:42:14.000Z",
+      "headline": "Thanks to Bluehost's Black Friday Sale the Website of Your Dreams Can Now Be Yours",
+      "summary": "Huge tiered discounts can get you price drops of up to 25% off of Bluehost's hosting, AI website builders, e-commerce setups, and more during the holiday shopping season.",
+      "expanded": "Huge tiered discounts can get you price drops of up to 25% off of Bluehost's hosting, AI website builders, e-commerce setups, and more during the holiday shopping season.",
+      "category": "misc",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "7a87dd0f4fc1",
+      "title": "Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations",
+      "url": "https://www.pcmag.com/news/googles-ai-mode-is-getting-wallet-drive-and-gemini-app-integrations",
+      "source": "PCMag",
+      "sourceHome": "https://www.pcmag.com/",
+      "publishedAt": "2026-11-24T10:16:10.000Z",
+      "headline": "Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations",
+      "summary": "AI Mode can now tap into Google Wallet to provide tailored responses. Support for additional context from Google Drive and the Gemini app will arrive in the coming weeks.",
+      "expanded": "AI Mode can now tap into Google Wallet to provide tailored responses. Support for additional context from Google Drive and the Gemini app will arrive in the coming weeks.",
+      "category": "misc",
+      "summarizer": "extractive",
+      "alsoFrom": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "a15f266d5fa6",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source": "TechCrunch",
+      "sourceHome": "https://techcrunch.com/",
+      "publishedAt": "2026-11-24T18:02:59.000Z",
+      "headline": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "expanded": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "category": "enterprise-ai",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "352ca41f41cf",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch",
+      "sourceHome": "https://techcrunch.com/",
+      "publishedAt": "2026-11-24T15:51:07.000Z",
+      "headline": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7. 5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "expanded": "Amazon’s decision to acquire Decart for a reported $7. 5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "category": "ai-financials",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "b68502d162ee",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch",
+      "sourceHome": "https://techcrunch.com/",
+      "publishedAt": "2026-11-24T18:30:42.000Z",
+      "headline": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "expanded": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "category": "ai-financials",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "f323d7562d66",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica",
+      "sourceHome": "https://arstechnica.com/",
+      "publishedAt": "2026-11-23T21:30:44.000Z",
+      "headline": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children. SpaceX acquired xAI in February and now must handle the ongoing reckoning over the controversial rollout of Grok’s “spicy mode”—a model feature Musk hyped but was soon found to generate a flood of non-consensual intimate imagery (NCII) and child sex abuse images (CSAM). Initial safeguards were so lax that Grok sometimes generated nude images without being asked .",
+      "expanded": "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children. SpaceX acquired xAI in February and now must handle the ongoing reckoning over the controversial rollout of Grok’s “spicy mode”—a model feature Musk hyped but was soon found to generate a flood of non-consensual intimate imagery (NCII) and child sex abuse images (CSAM). Initial safeguards were so lax that Grok sometimes generated nude images without being asked .\n\nAlthough X Safety and xAI (now known as SpaceXSI) were silent at first , Musk’s companies eventually apologized and claimed that additional safeguards were implemented and policies redesigned to block harmful outputs. However, state attorneys general alleged that those statements were “misleading” and that SpaceXSI instead quietly “embraced” sexualized content to seize more AI market share, as Grok continues to generate NCII and CSAM today. Read full article Comments",
+      "category": "ai-financials",
+      "summarizer": "extractive",
+      "alsoFrom": [
+        "CNET"
+      ]
+    },
+    {
+      "id": "6545db87281a",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "source": "The Verge",
+      "sourceHome": "https://www.theverge.com/",
+      "publishedAt": "2026-11-23T20:00:00.000Z",
+      "headline": "Claude AI can review pull requests and ship fixes on its own now",
+      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was announced in March and became generally available in October .",
+      "expanded": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was announced in March and became generally available in October .\n\nWhat's new alongside Claude Ship are the PR Steward and Claude Approvals agents, which are launching in beta today. PR Steward \"jumps in on failing CI checks, merge conflicts, and review feedback from Code Review, other review tools, or team member.",
+      "category": "consumer-ai",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "c889542e9f68",
+      "title": "Amazon Alexa Photo Frame Review: A Simple Digital Frame With a Few Smart Tricks",
+      "url": "https://www.pcmag.com/reviews/amazon-alexa-photo-frame",
+      "source": "PCMag",
+      "sourceHome": "https://www.pcmag.com/",
+      "publishedAt": "2026-11-23T19:34:13.000Z",
+      "headline": "Amazon Alexa Photo Frame Review: A Simple Digital Frame With a Few Smart Tricks",
+      "summary": "Amazon's Alexa Photo Frame pairs a nice display with useful Alexa features like AI photo search, though it only works in landscape mode and its speakers are limited.",
+      "expanded": "Amazon's Alexa Photo Frame pairs a nice display with useful Alexa features like AI photo search, though it only works in landscape mode and its speakers are limited.",
+      "category": "consumer-ai",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "a72cc3aa1f3d",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "sourceHome": "https://techcrunch.com/",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "expanded": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "category": "consumer-ai",
+      "summarizer": "extractive"
+    },
+    {
+      "id": "3576c2323cd9",
+      "title": "Oregon, Virginia Sue SpaceX Over Grok Generating Non-Consensual Sexualized Images of People, Including Kids",
+      "url": "https://www.pcmag.com/news/oregon-virginia-sue-spacex-over-grok-generating-non-consensual-sexualized",
+      "source": "PCMag",
+      "sourceHome": "https://www.pcmag.com/",
+      "publishedAt": "2026-11-23T20:51:59.000Z",
+      "headline": "Oregon, Virginia Sue SpaceX Over Grok Generating Non-Consensual Sexualized Images of People, Including Kids",
+      "summary": "They allege that X’s promotion of itself as safe violated state consumer-protection statutes.",
+      "expanded": "They allege that X’s promotion of itself as safe violated state consumer-protection statutes.",
+      "category": "consumer-ai",
+      "summarizer": "extractive"
+    }
+  ]
+}
